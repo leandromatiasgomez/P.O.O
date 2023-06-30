@@ -1,0 +1,8 @@
+C:\Users\Lesoel\source\repos\pra\pra\bin\Debug\pra.exe.config
+C:\Users\Lesoel\source\repos\pra\pra\bin\Debug\pra.exe
+C:\Users\Lesoel\source\repos\pra\pra\bin\Debug\pra.pdb
+C:\Users\Lesoel\source\repos\pra\pra\obj\Debug\pra.csproj.AssemblyReference.cache
+C:\Users\Lesoel\source\repos\pra\pra\obj\Debug\pra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lesoel\source\repos\pra\pra\obj\Debug\pra.csproj.CoreCompileInputs.cache
+C:\Users\Lesoel\source\repos\pra\pra\obj\Debug\pra.exe
+C:\Users\Lesoel\source\repos\pra\pra\obj\Debug\pra.pdb
