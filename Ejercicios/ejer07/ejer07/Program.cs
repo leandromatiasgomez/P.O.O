@@ -4,53 +4,22 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej_obligatorio_03
+namespace ejer07
 {
-    class Password
-    {
-        public string contraseña = "pepe_elpro82";
-        public int longitud = 12;
-
-
-        public Password()
-        {
-        }
-        public Password(int longitud)
-        {
-            this.longitud = longitud;
-        }
-        public Password(string contraseña)
-        {
-            this.contraseña = contraseña;
-        }
-        public string Contraseña
-        {
-            get { return contraseña; }
-
-        }
-        public int Longitud
-        {
-            get { return longitud; }
-            set { longitud = value; }
-        }
-        public bool esFuerte()
-        {
-
-            return false;
-        }
-
-    }
-
-
-
     internal class Program
     {
         static void Main(string[] args)
         {
-            Password[] contra = new Password[1];
-            contra[0] = new Password("holakheace");
+            Raices raices = new Raices(1,2,3);
+
+            Console.WriteLine("Dos posibles soluciones: ");
+            Console.WriteLine("Unica solucion: ");
+            Console.WriteLine("Discriminante: " + raices.getDiscriminante());
+            Console.WriteLine("Tiene mas de una solucion: " + raices.tieneRaices());
+            Console.WriteLine("Tiene una solución: " + raices.tieneRaiz());
+            Console.WriteLine("Posibles soluciones: ");
+
             Console.ReadKey();
         }
     }
 }
-

@@ -19,35 +19,43 @@ namespace ejer07
             this.c = c;
         }
 
-        
-
-        public double getA
+        public string obtenerRaices()
         {
-            get
-            {
-                return this.a;
-            }
+            double res1 = (-b + ((b * 2) - (4 * a * c))) / (2 * a);
+            double res2 = (-b - ((b * 2) - (4 * a * c))) / (2 * a);
+
+            return ("primero resultado: " + res1 + "\nsegundo resultado: " + res2);
         }
 
-        public double getB
+        public string obtenrRaiz()
         {
-            get
-            {
-                return this.b;
-            }
-        }
+            double res1 = (-b + ((b * 2) - (4 * a * c))) / (2 * a);
+            double res2 = (-b - ((b * 2) - (4 * a * c))) / (2 * a);
 
-        public double getC
-        {
-            get 
-            { 
-                return this.c;
+            if (res1 == res2)
+            {
+                return ("Resultado: " + res1);
+            }
+            else
+            {
+                return ("Hay más de una solucion");
             }
         }
 
         public double getDiscriminante()
         {
-            return((getB * 2) - 4 * getA * getC);
+            return ((b * 2) - 4 * a * c);
         }
+
+        public bool tieneRaices()
+        {
+            if(getDiscriminante() >= 0) { return true; } else { return false; } 
+        }
+
+        public bool tieneRaiz()
+        {
+            if(getDiscriminante() == 0) { return true; } else { return false;}
+        }
+
     }
 }
