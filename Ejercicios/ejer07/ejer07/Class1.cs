@@ -21,20 +21,20 @@ namespace ejer07
 
         public string obtenerRaices()
         {
-            double res1 = (-b + ((b * 2) - (4 * a * c))) / (2 * a);
-            double res2 = (-b - ((b * 2) - (4 * a * c))) / (2 * a);
+            double res1 = (-b + Math.Sqrt(Math.Pow(b, 2) -4 * (a * c))) / 2 * a;
+            double res2 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * (a * c))) / 2 * a;
 
-            return ("primero resultado: " + res1 + "\nsegundo resultado: " + res2);
+            return ("\nprimero resultado: " + res1 + "\nsegundo resultado: " + res2);
         }
 
-        public string obtenrRaiz()
+        public string obtenerRaiz()
         {
-            double res1 = (-b + ((b * 2) - (4 * a * c))) / (2 * a);
-            double res2 = (-b - ((b * 2) - (4 * a * c))) / (2 * a);
+            double res1 = (-b + Math.Sqrt(Math.Pow(b, 2) - 4 * (a * c))) / 2 * a;
+            double res2 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * (a * c))) / 2 * a;
 
             if (res1 == res2)
             {
-                return ("Resultado: " + res1);
+                return ("\nResultado: " + res1);
             }
             else
             {
@@ -44,17 +44,31 @@ namespace ejer07
 
         public double getDiscriminante()
         {
-            return ((b * 2) - 4 * a * c);
+            return (Math.Pow(b, 2) - 4 * a * c);
         }
 
         public bool tieneRaices()
         {
-            if(getDiscriminante() >= 0) { return true; } else { return false; } 
+            if(getDiscriminante() == 0) { return true; } else { return false; } 
         }
 
         public bool tieneRaiz()
         {
             if(getDiscriminante() == 0) { return true; } else { return false;}
+        }
+        public string calcular()
+        {
+            double res1 = (-b + Math.Sqrt(Math.Pow(b, 2) - 4 * (a * c))) / (2 * a);
+            double res2 = (-b - Math.Sqrt(Math.Pow(b, 2) - 4 * (a * c))) / (2 * a);
+
+            if(double.IsNaN(res1) || double.IsNaN(res2))
+            {
+                return ("no existe soluciones");
+            }
+            else
+            {
+                return ("\nSolucion 1: " + res1 + "\nSolucion 2: " + res2);
+            }
         }
 
     }

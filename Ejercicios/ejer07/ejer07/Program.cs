@@ -10,15 +10,9 @@ namespace ejer07
     {
         static void Main(string[] args)
         {
-            Raices raices = new Raices(1,2,3);
+            Raices raices = new Raices(1,-5,6);
 
-            Console.WriteLine("Dos posibles soluciones: ");
-            Console.WriteLine("Unica solucion: ");
-            Console.WriteLine("Discriminante: " + raices.getDiscriminante());
-            Console.WriteLine("Tiene mas de una solucion: " + raices.tieneRaices());
-            Console.WriteLine("Tiene una solución: " + raices.tieneRaiz());
-            Console.WriteLine("Posibles soluciones: ");
-
+            Console.Write(raices.tieneRaices());
             Console.ReadKey();
         }
     }

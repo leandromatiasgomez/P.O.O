@@ -6,3 +6,11 @@ C:\Users\Alumno\source\repos\ejer07\ejer07\bin\Debug\ejer07.exe
 C:\Users\Alumno\source\repos\ejer07\ejer07\bin\Debug\ejer07.pdb
 C:\Users\Alumno\source\repos\ejer07\ejer07\obj\Debug\ejer07.exe
 C:\Users\Alumno\source\repos\ejer07\ejer07\obj\Debug\ejer07.pdb
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\bin\Debug\ejer07.exe.config
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\bin\Debug\ejer07.exe
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\bin\Debug\ejer07.pdb
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\obj\Debug\ejer07.csproj.AssemblyReference.cache
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\obj\Debug\ejer07.csproj.SuggestedBindingRedirects.cache
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\obj\Debug\ejer07.csproj.CoreCompileInputs.cache
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\obj\Debug\ejer07.exe
+C:\Gomez\P.O.O\Ejercicios\ejer07\ejer07\obj\Debug\ejer07.pdb
