@@ -26,7 +26,7 @@ namespace juego.Clases
 
         private void Init(ContentManager cm, SpriteBatch sb)
         {
-            this.listaTextura.Add(cm.Load<Texture2D>("Avion_IDLE"));
+            this.listaTextura.Add(cm.Load<Texture2D>("Avion1"));
             this.X = (int)this.posicion.X;
             this.Y = (int)this.posicion.Y;
             this.posicion = new Vector2 (this.pantallaLargo/2, this.pantallaLargo-100);

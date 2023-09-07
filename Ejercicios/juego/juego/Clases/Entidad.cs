@@ -25,7 +25,7 @@ namespace juego.Clases
         {
             IZQUIERDA = 0,
             IDLE = 1,
-            DRECHA = 2,
+            DERECHA = 2,
             ARRIBA = 3,
             ABAJO = 4,
         }

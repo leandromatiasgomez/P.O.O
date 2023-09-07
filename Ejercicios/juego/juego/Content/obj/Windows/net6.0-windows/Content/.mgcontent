@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/MyD/source/repos/juego/juego/Content/Avion_IDLE.png</File>
+    <File>C:/P.O.O/Ejercicios/juego/juego/Content/Avion.png</File>
+    <File>C:/P.O.O/Ejercicios/juego/juego/Content/Avion1.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
