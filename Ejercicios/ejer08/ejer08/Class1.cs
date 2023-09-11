@@ -19,7 +19,7 @@ namespace ejer08
         {
             this.nombre = nombre;
             this.edad = edad;
-            this.sexo = sexo;
+            comprobarSexo(sexo);
             comprobarNota(nota);
             this.faltas = faltas;
             this.presente = presente;
@@ -27,9 +27,9 @@ namespace ejer08
 
         public void comprobarNota(int nota)
         {
-            if (nota < 0)   
+            if (nota <= 0)   
             {
-                this.nota = 0;
+                this.nota = 1;
             }
             else if (nota > 10)
             {
@@ -66,6 +66,37 @@ namespace ejer08
             else
             {
                 return ("No puede faltar");
+            }
+        }
+
+        public bool getPresente
+        {
+            get
+            {
+                return this.presente;
+            }
+        }
+
+        public int getFaltas
+        {
+            get 
+            { 
+                return this.faltas; 
+            }
+        }
+
+        public string getNombre
+        {
+            get
+            {
+                return this.nombre;
+            }
+        }
+        public int getNota
+        {
+            get
+            {
+                return this.nota;
             }
         }
 

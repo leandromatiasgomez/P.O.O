@@ -1,0 +1,8 @@
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\bin\Debug\ejer08.exe.config
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\bin\Debug\ejer08.exe
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\bin\Debug\ejer08.pdb
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\obj\Debug\ejer08.csproj.AssemblyReference.cache
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\obj\Debug\ejer08.csproj.SuggestedBindingRedirects.cache
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\obj\Debug\ejer08.csproj.CoreCompileInputs.cache
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\obj\Debug\ejer08.exe
+C:\Gomez\P.O.O\Ejercicios\ejer08\ejer08\obj\Debug\ejer08.pdb

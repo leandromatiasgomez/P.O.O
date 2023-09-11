@@ -32,7 +32,12 @@ namespace ejer08
             }
         }
 
-        
-
+       public string getMateria
+       {
+            get
+            {
+                return this.materia;
+            }
+       }
     }
 }
