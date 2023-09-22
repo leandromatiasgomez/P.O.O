@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejer08
 {
-    internal class Profesor : IPrecencia
+    internal class Profesores : IPrecencia
     {
         private string nombre;
         private int edad;
@@ -15,7 +15,7 @@ namespace ejer08
         private int faltas;
         private bool presente = false;
 
-        public Profesor(string nombre, int edad, char sexo, string materia, int faltas, bool presente)
+        public Profesores(string nombre, int edad, char sexo, string materia, int faltas, bool presente)
         {
             this.nombre = nombre;
             this.edad = edad;
@@ -64,6 +64,21 @@ namespace ejer08
             else 
             { 
                 return ("No puede faltar"); 
+            }
+        }
+
+        public string getMateria
+        {
+            get
+            {
+                return this.materia;
+            }
+        }
+        public bool getPresente
+        {
+            get
+            {
+                return this.presente;
             }
         }
     }
