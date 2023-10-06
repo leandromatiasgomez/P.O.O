@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\bin\Debug\prueba3bimestre.exe.config
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\bin\Debug\prueba3bimestre.exe
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\bin\Debug\prueba3bimestre.pdb
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.Form1.resources
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.Properties.Resources.resources
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.exe
+C:\Users\Alumno\source\repos\prueba3bimestre\prueba3bimestre\obj\Debug\prueba3bimestre.pdb
