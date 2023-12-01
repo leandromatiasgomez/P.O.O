@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tP1EkSqcbZfqxLK1KvB82tWK9wStmQKbX9ZWG/9fVljdNU7lwpTz4uZVeGBdnrM3E+8xQh4At/XkmK1lGeagYg==",
+  "dgSpecHash": "gOdDbf6dUrTLs3/ABVBMhFOS8lXx2f1FyjIjpDtFq7BROYQ6+ykZ1q/9GBPSTtjKLI7pdS0zOwUueRjJZ1CGSA==",
   "success": true,
-  "projectFilePath": "C:\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
+  "projectFilePath": "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alumno\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Alumno\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/P.O.O/Ejercicios/juego/juego/Content/Avion.png</File>
-    <File>C:/P.O.O/Ejercicios/juego/juego/Content/Avion1.png</File>
+    <File>C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/Avion.png</File>
+    <File>C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/Avion1.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

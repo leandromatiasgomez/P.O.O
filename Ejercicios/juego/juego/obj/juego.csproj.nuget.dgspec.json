@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj": {}
+    "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj": {}
   },
   "projects": {
-    "C:\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj": {
+    "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
+        "projectUniqueName": "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
         "projectName": "juego",
-        "projectPath": "C:\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
+        "projectPath": "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\juego.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\P.O.O\\Ejercicios\\juego\\juego\\obj\\",
+        "outputPath": "C:\\Gomez\\P.O.O\\Ejercicios\\juego\\juego\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",

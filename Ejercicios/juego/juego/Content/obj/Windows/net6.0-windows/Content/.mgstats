@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/Avion.png","C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/bin/Windows/Content/Avion.xnb","TextureProcessor","Texture2DContent",12747,1638485,0,2088451
+"C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/Avion1.png","C:/Gomez/P.O.O/Ejercicios/juego/juego/Content/bin/Windows/Content/Avion1.xnb","TextureProcessor","Texture2DContent",330,4181,0,0131423
