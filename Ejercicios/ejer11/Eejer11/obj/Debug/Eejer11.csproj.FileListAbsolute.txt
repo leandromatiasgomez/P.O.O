@@ -1,0 +1,8 @@
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\bin\Debug\Eejer11.exe.config
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\bin\Debug\Eejer11.exe
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\bin\Debug\Eejer11.pdb
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\obj\Debug\Eejer11.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\obj\Debug\Eejer11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\obj\Debug\Eejer11.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\obj\Debug\Eejer11.exe
+C:\Users\Alumno\source\repos\Eejer11\Eejer11\obj\Debug\Eejer11.pdb
