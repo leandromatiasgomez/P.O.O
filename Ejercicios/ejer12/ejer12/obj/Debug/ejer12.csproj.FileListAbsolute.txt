@@ -1,0 +1,7 @@
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\bin\Debug\ejer12.exe.config
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\bin\Debug\ejer12.exe
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\bin\Debug\ejer12.pdb
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\obj\Debug\ejer12.csproj.AssemblyReference.cache
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\obj\Debug\ejer12.csproj.CoreCompileInputs.cache
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\obj\Debug\ejer12.exe
+C:\Gomez\P.O.O\Ejercicios\ejer12\ejer12\obj\Debug\ejer12.pdb

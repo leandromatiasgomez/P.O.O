@@ -14,17 +14,24 @@ namespace ejer12
 
         public Jugador() { }
 
+        public Jugador(int id, string nombre, bool vivo)
+        {
+            this.id = id;
+            this.nombre = nombre;
+            this.vivo = vivo;
+        }
+
         public bool disparar(Revolver r)
         {
-            if (r.getPosicionActual == r.getPosicionBala)
+            if (r.disparar() == true)
             {
                 this.vivo = false;
-                return vivo;
+                return this.vivo;
             }
             else
             {
                 this.vivo = true;
-                return vivo;
+                return this.vivo;
             }
         }
 
@@ -33,14 +40,19 @@ namespace ejer12
             get { return this.id; }
         }
 
-        public string gerNombre
+        public string getNombre
         {
             get { return this.nombre; }
         }
 
         public bool getVivo
         {
-            get { return this.vivo}
+            get { return this.vivo; }
+        }
+
+        public void setVivo(bool vivo) 
+        {
+            this.vivo = vivo;
         }
     }
 }

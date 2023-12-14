@@ -13,6 +13,12 @@ namespace ejer12
 
         public Revolver() { }
 
+        public Revolver(int posicionActual, int posicionBala)
+        {
+            this.posicionActual = posicionActual;
+            this.posicionBala = posicionBala;
+        }
+
         public bool disparar()
         {
             if (this.posicionActual == this.posicionBala)
